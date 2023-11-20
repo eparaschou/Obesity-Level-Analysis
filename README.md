@@ -1,7 +1,7 @@
 # Obesity Level Analysis
 Topic:How obesity levels are influenced by eating habits, physical conditions, and genetics. The data sets includes data from Mexico, Peru, and Colombia. 
 
-Data was obtained from UCI learning repository. It has 17 attributes and 2,111 records.
+Data was obtained from UCI learning repository. It has 17 attributes and 2,111 records. Samples were also asked if they are a smoker or not.
 
 
 
