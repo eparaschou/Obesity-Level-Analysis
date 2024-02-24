@@ -7,7 +7,7 @@ Tools: Excel, R, Tableau
 # Data Description
 ![image](https://github.com/eparaschou/Obesity-Level-Analysis/assets/148002149/7252fc1d-40c6-4161-b74c-0c98cda1293c)
 
-**Data Pre-Processing**
+# Data Pre-Processing
 - Created a new column to calculate the Body Mass Index (BMI) to analyze the relationships of the dataset's attributes and obesity.
 - BMI formula in R: obesity$BMI <- obesity$Weight / (obesity$Height)^2 
 - Removed 24 duplicates from the dataset (Original number of rows: 2,111. After duplicates removal: 2,087)
@@ -21,7 +21,7 @@ Tools: Excel, R, Tableau
 
 ![image](https://github.com/eparaschou/Obesity-Level-Analysis/assets/148002149/6611621a-b523-4277-b70c-b1dc306f124e)
 
-**Analysis**
+# Analysis
 
 **Number of respondents in each weight classification**
 ![image](https://github.com/eparaschou/Obesity-Level-Analysis/assets/148002149/6a27dfd1-4c6e-410f-8d3e-fde49cbb24c4)
@@ -89,7 +89,7 @@ Finally, the fourth subplot reveals no significant relationship between gender a
 The figure displays the relationship between two movement-related variables and their influence on BMI. In the first subplot, the regression line indicates a negative trend between a person's frequency of physical activity and their BMI. However, numerous data points appear significantly distant from the regression line, implying that the frequency of physical activity may not be strongly correlated with BMI.
 
 
-**Conclusion**
+# Conclusion
 The analysis indicates that variables like a family history of obesity and frequent consumption of high-calorie foods have a significant impact on weight classification. Conversely, factors such as age appeared to exert less influence, while gender showed no discernible effect on weight classification.
 
 
