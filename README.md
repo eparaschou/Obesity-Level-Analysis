@@ -14,9 +14,11 @@ Tools: Excel, R, Tableau
 - There were no missing values in the dataset
 
 **Quantitative Variables Summary**
+
 ![image](https://github.com/eparaschou/Obesity-Level-Analysis/assets/148002149/90b24101-69f2-4d66-9511-237a737e93c6)
 
 **Qualitative Variables Summary**
+
 ![image](https://github.com/eparaschou/Obesity-Level-Analysis/assets/148002149/6611621a-b523-4277-b70c-b1dc306f124e)
 
 **Analysis**
